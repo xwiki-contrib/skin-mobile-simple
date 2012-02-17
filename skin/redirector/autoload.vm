@@ -1,9 +1,0 @@
-#set($mobile = $request.getCookie("xwikimobile").getValue())
-#if("$mobile"!="off")
-#set($ua = $request.getHeader("User-agent"))
-#if($ua.contains("iPhone")||$ua.contains("iPad")||$ua.contains("Android")||$ua.contains("IEMobile"))
- #if("$!request.skin"=="")
-  $response.sendRedirect($doc.getURL("view", "$!request.getQueryString()&skin=mobile"))
- #end
-#end
-#end
