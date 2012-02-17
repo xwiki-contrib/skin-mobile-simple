@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xwikidoc>
+<web>XWiki</web>
+<name>MobileSkin</name>
+<language></language>
+<defaultLanguage>fr</defaultLanguage>
+<translation>0</translation>
+<parent></parent>
+<creator>xwiki:XWiki.Admin</creator>
+<author>xwiki:XWiki.Admin</author>
+<customClass></customClass>
+<contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+<creationDate>1329474433000</creationDate>
+<date>1329474433000</date>
+<contentUpdateDate>1329474433000</contentUpdateDate>
+<version>1.1</version>
+<title></title>
+<template></template>
+<defaultTemplate></defaultTemplate>
+<validationScript></validationScript>
+<comment></comment>
+<minorEdit>false</minorEdit>
+<syntaxId>xwiki/2.0</syntaxId>
+<hidden>false</hidden><attachment>
+<filename>concole_24.png</filename>
+<filesize>251</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAJ1JREFUeNpi3Llz53sGBgYBBtqAD0w0NBwEBJhgDCBmpDIGOxxmwUca
+uP4jsgU0A9gs+A/EPrS0wBeIN1PLEmwWbEGyJJAWFsAsaQXidbSyABQ81UCsSQsLfKDBYwLENyi1
+gAWL2GZoHJxFS1nogJFcCxjJNYyUOKBpRhu1YNQC8izgp4HZ/MgZ7QMtffCBhiH0gfH///80jQOA
+AAMAA20YvTco4Z0AAAAASUVORK5CYII=
+</content></attachment><attachment>
+<filename>book_bookmark_24.png</filename>
+<filesize>225</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAINJREFUeNpi/P//P8OuXbveMzAwCDBQF3xwc3MTZIFyBKD4IxUt4AcR
+LMg2IrEZgfg/AQMYsYj9RzNPkImBdkAA3Qe4XEURYMLixf+0tIDqYDSIRoNoBAQRqEDrB2J9WgQR
+yNADQFwApfWpHUQX0Aq2C6OpaDSj0TaIPtAgiMBmAgQYAG93IgQjRKiRAAAAAElFTkSuQmCC
+</content></attachment><attachment>
+<filename>man_24.png</filename>
+<filesize>376</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAARpJREFUeNrMVcERgjAQDBn+poPQgXSAJdABlsCbj5ZAB2IF+uWldIAd
+QAeU4MU5MGYMiYHMuDM7QyDs7iXkCIqiIEmSEAM4MAfGOO6AJfChTmya5mMcfrspA8wzFGPKox2y
+14kL0LnYIM414gIRsAVmcyGpYWlyjfgIhgG4boLJICVmMAziZBARO8SuBuRfDJhvg9a3weBqcPVd
+ga1B5WQAp/M8lw5xh3kPpQNMDC3SHQ2V7GVhl00eDFX2OvGpmy45zdgQe43520BJsMXSU4t20eE+
+VbiUvdxdqSIuLm74Qv5jLyrR7CR313EPNsCL+CLwJ7IEovIOQh/EIKjrmqNwRNZHRXHtfIi/qqEr
+LMksKPEMajpIS/EUYAB2gUgv50AbmgAAAABJRU5ErkJggg==
+</content></attachment><attachment>
+<filename>outbox_24.png</filename>
+<filesize>274</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAALRJREFUeNpi/P//P8OuXbsYiAD6QLwBiAOA+CIhxW5ubmCaiYE4wA81
+XAFK8xOpD27Bfxz4PZrhDGiWvMejlygfOABxA5QmRhynD2CAEQ0bAHEBDr0FUHl0PXgtQI/UCQQc
+OAGqjmgfIANQOAsQsEAAqg4nYMEjp4jE/o9FnpGUVEQzMGrBqAVDwAIWItUxDpkgQi7P9Yk0Qx9b
+PUCMDw4QYYk+VB1ZcQAqKS+MJlOaWwAQYACwBCnfgRtoRwAAAABJRU5ErkJggg==
+</content></attachment><attachment>
+<filename>link_24.png</filename>
+<filesize>456</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAWpJREFUeNqsldFthDAMhrmI92sn6I3QDbgR2KBhgnIbtBM0G9AboY88
+tWzAbcBtQCfoOdFvyYowFwqWfpGI5DN27LBr2zZbaXuSI5WkkfRGOvPLfAP4D+kZ8wfSJ8bBidkI
+PiIChvvny5oIYviRdCF94b1lZ8kRdF13D85WyUjMxnC2mgdJDoqi4KFLgPM6b0NyiuDEYloC/oqo
+pDVYFw5+aRX5TT3U4EudAg8RLnVQY6MTIKfBU87gyWdHzM8RnEGT8DkHPq/f/pBQNY3ylT6iPw2u
+OeBSPGLeAxTDD+LQB62q8pkO7bHpV0mB1w5pvGo5Nr6J0Ega/COClxHjOtegOepbg8vy5JxbrO1S
+ut8kwE+kR5HnJVdLcOBm4PHZHOCou9f1fL0YkdNagWcT936yyTK1ypom8YKbjMSIVreiobK59l8a
+wbv4QbCT/RZw2WiVcGBFulbBgwNRUhXlbBR/o0Hc+/+2mwADAMLAkwyQ9bfqAAAAAElFTkSuQmCC
+</content></attachment><attachment>
+<filename>info_24.png</filename>
+<filesize>390</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAShJREFUeNq0VssRgyAQBYZCTAfpwHSgJZgO9OoldqAdhBL06CnaCZ0k
+kFlmDMNnMfpm3pgIvHUf7Cpt25bkeU48KBRLxZtiZo1JxUVxVJx8AtxzX0cUDtEt9FgFlHBd7UnM
+sbCHJwuJu4ItsPY3gGXPU7Em+1GDhjODHtL0oVOkwC4wr9pmQud5Np4vkaej1v93ZL4+GKvJQJDj
+IYxFBXJDH57foY0vOJxzDLqI9y6UHLwiif5j9uC7DwxpzwusTEXGkRNNq5hSI7DEaiVnBiB7A8gT
+9SVDVPA/WBj087MwMjgZElFkV7uIIoWnNSdss6OBsTem2ek30RAR8dGFwbzdtse0OairCtBy1sE9
+kkkMA2gEC60B/1LqQ8KaBvtVof27HPHZ8hFgAGAkRNKlECKJAAAAAElFTkSuQmCC
+</content></attachment><attachment>
+<filename>comment_24.png</filename>
+<filesize>278</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAALhJREFUeNpirKqqYrC3t/dnYGCYAMQKDNQBD4C44ODBgxsZd+7cCTJ8
+AwNtQAAT1OW0AhOYqBgs2IACCxZBFwoN3YPMYSGkgFLAxEBjMBpEo0E0GkSQIHpAwxB6ALKggIYW
+FDCBKgVQuU1ln4DMCgCZDY4DqCUbYbLAGu4/Fk0XgNgBqPYjLZIpWYYTa8EGcg3HlUyRwQIgToQG
+G05FQMvJ8gHccEIAZDkuBzBhU0yK4Vj0ogCAAAMArgk5Z0YMf9oAAAAASUVORK5CYII=
+</content></attachment><attachment>
+<filename>document_24.png</filename>
+<filesize>232</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAIpJREFUeNpi/P//PwMI7Nq1C8IgDTwA4g1AXIgu4ebmBqaZGCgDAUBc
+AMT+uBRQasFFKL0AiOVpYQEMCECDimYWgIABEPfT0gIGbPFBbQsw4oMWFqDEBwsVDGRE4+sD8QVq
+WUAwc9IiiIaZBSxERhzZccJCbuSN+mDUB/TzwdDPyYywZgutAECAAQCMxRyUsXMtJwAAAABJRU5E
+rkJggg==
+</content></attachment><attachment>
+<filename>xwiki.png</filename>
+<filesize>1491</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>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
+AElFTkSuQmCC
+</content></attachment><attachment>
+<filename>attach_24.png</filename>
+<filesize>538</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAbxJREFUeNq0ldFxgzAMhqkv78kGZYOyAWzQbACdoBmBbsAGTTagj3kq
+3qDdgGxAJ6AS/UUFtcG5XH2nQGzpkyzLYnM+n6MbxpakItmT7DDXkpQkJ2ttZPjnBngD+JEkw/sH
+/r+y0uZGeAzwp1p7I8nZSZqmteGZK3exBJdxgs7ByEygkxC4jCFtxrfqcHgNXA57egYMpbwN7/L0
+wHnck/7FRyf7hB6dCYg8UnCpGK6UliDvJFsHnOcOJLUJyDuXWwJ4hTnZSazmNLzBvSjNSv4ZXiAa
+AWWcGvujVMKxHrUEwHqblcgFXsAoJqMvpcNRdip62S3DhyIwngNywTMNJ50H7OCobPYa7nTgg+uy
+BJzz3BLsxQf/U6YKXsBgAkfpjnBeW4JPdkCKzwqeicyMJnDVSZ3w0QHBcygXqiuORqiqOfywBh8c
+EPwRB3VU7XdihNquFXwPB4twOQOOvCbFJ8DiWbXIxekAT2CzChcHMVIjl8wFj1SZ2nkQaw58zUo3
+uEQDQ+HioEVOrQfOabnMumtIgxzGHX30cxxwhYPc4YaG9v1FJ/zRP6n6b+Ckuwbu+H787qDv++g/
+x7cAAwA6tuVbeWeWfgAAAABJRU5ErkJggg==
+</content></attachment><attachment>
+<filename>pencil_24.png</filename>
+<filesize>396</filesize>
+<author>XWiki.Admin</author>
+<date>1329472327000</date>
+<version>1.4</version>
+<comment></comment><content>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAS5JREFUeNq0lssNgzAMhkOUAbpB1QnKBqQXzmxQ2KBn7twZgW7QK7ey
+AWzQDUonoA5yKisKqhqnlgyCkO937DxI6roWMSzLsjPcOnzshmGomqYRChu5fAo3ViKzkiKOXTzv
+SnNRESI3psHv4Clpm2MIjAh2RWZ8FpIR+ZOAW/CCiGgo8hQqYAu6c6JfRQB8gvtkP5aB8BkL64qM
+bgcVCC8wYoEiN/CDr5NkwFMyW4qtjjICXNOc/yrAgn8TYMM/AjC1Vo8Bd/e1pO/7v0RuLM9zb4pa
+slkFw301OKJrhN04cJty6UROV+XMidzWQpLotWfpP0LgdATKc2DsyLZ74J5EZgR7e/qQlLQkRSxT
+BP5AsJmir0hH6Spg5noJObv+8gPgLMxNS5ZlEf+0twADAFtgc+y37Hi/AAAAAElFTkSuQmCC
+</content></attachment>
+<object>
+<class>
+<name>XWiki.XWikiSkins</name>
+<customClass></customClass>
+<customMapping></customMapping>
+<defaultViewSheet></defaultViewSheet>
+<defaultEditSheet></defaultEditSheet>
+<defaultWeb></defaultWeb>
+<nameField></nameField>
+<validationScript></validationScript>
+<baseskin>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>baseskin</name>
+<number>2</number>
+<picker>0</picker>
+<prettyName>Base Skin</prettyName>
+<size>30</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</baseskin>
+<contentmenu.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>contentmenu.vm</name>
+<number>16</number>
+<picker>0</picker>
+<prettyName>contentmenu.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</contentmenu.vm>
+<contentview.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>contentview.vm</name>
+<number>22</number>
+<picker>0</picker>
+<prettyName>contentview.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</contentview.vm>
+<docextra.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>docextra.vm</name>
+<number>14</number>
+<picker>0</picker>
+<prettyName>docextra.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</docextra.vm>
+<edit.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>edit.vm</name>
+<number>9</number>
+<picker>0</picker>
+<prettyName>Edit</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</edit.vm>
+<editmenu.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>editmenu.vm</name>
+<number>18</number>
+<picker>0</picker>
+<prettyName>editmenu.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</editmenu.vm>
+<editmeta.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>editmeta.vm</name>
+<number>21</number>
+<picker>0</picker>
+<prettyName>editmeta.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</editmeta.vm>
+<endpage.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>endpage.vm</name>
+<number>15</number>
+<picker>0</picker>
+<prettyName>endpage.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</endpage.vm>
+<footer.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>footer.vm</name>
+<number>6</number>
+<picker>0</picker>
+<prettyName>Footer</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</footer.vm>
+<header.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>header.vm</name>
+<number>5</number>
+<picker>0</picker>
+<prettyName>Header</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</header.vm>
+<hierarchy.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>hierarchy.vm</name>
+<number>19</number>
+<picker>0</picker>
+<prettyName>hierarchy.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</hierarchy.vm>
+<inline.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>inline.vm</name>
+<number>11</number>
+<picker>0</picker>
+<prettyName>inline.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</inline.vm>
+<ios.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>ios.css</name>
+<number>13</number>
+<picker>0</picker>
+<prettyName>ios.css</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</ios.css>
+<iosheader.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>iosheader.vm</name>
+<number>10</number>
+<picker>0</picker>
+<prettyName>iosheader.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</iosheader.vm>
+<login.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>login.vm</name>
+<number>12</number>
+<picker>0</picker>
+<prettyName>login.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</login.vm>
+<logo>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>logo</name>
+<number>3</number>
+<picker>0</picker>
+<prettyName>Logo</prettyName>
+<size>30</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</logo>
+<menuview.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>menuview.vm</name>
+<number>17</number>
+<picker>0</picker>
+<prettyName>menuview.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</menuview.vm>
+<name>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<name>name</name>
+<number>1</number>
+<picker>0</picker>
+<prettyName>Name</prettyName>
+<size>30</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.StringClass</classType>
+</name>
+<panels.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>Text</editor>
+<name>panels.vm</name>
+<number>20</number>
+<picker>0</picker>
+<prettyName>panels.vm</prettyName>
+<rows>10</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</panels.vm>
+<style.css>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>style.css</name>
+<number>4</number>
+<picker>0</picker>
+<prettyName>Style</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</style.css>
+<view.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>view.vm</name>
+<number>8</number>
+<picker>0</picker>
+<prettyName>View</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</view.vm>
+<viewheader.vm>
+<customDisplay></customDisplay>
+<disabled>0</disabled>
+<editor>PureText</editor>
+<name>viewheader.vm</name>
+<number>7</number>
+<picker>0</picker>
+<prettyName>View Header</prettyName>
+<rows>15</rows>
+<size>80</size>
+<unmodifiable>0</unmodifiable>
+<validationMessage></validationMessage>
+<validationRegExp></validationRegExp>
+<classType>com.xpn.xwiki.objects.classes.TextAreaClass</classType>
+</viewheader.vm>
+</class>
+<name>XWiki.MobileSkin</name>
+<number>0</number>
+<className>XWiki.XWikiSkins</className>
+<guid>a801ee26-df51-4e9b-88c6-301b1f66bec3</guid>
+<property>
+<baseskin></baseskin>
+</property>
+<property>
+<contentmenu.vm>## empty
+</contentmenu.vm></property><property><contentview.vm>###
+### Display document contents in "view" mode.
+###
+## -------------------------------
+## Compute the content to display 
+## -------------------------------
+## Honor the syntax if it's passed in the request.
+#set($outputSyntax = $xwiki.getAvailableRendererSyntax($request.outputSyntax, $request.outputSyntaxVersion))
+#if ($outputSyntax)
+  ## If the passed syntax is not an HTML-compatible syntax we need to HTML-escape it so that it can be 
+  ## displayed fine in HTML (since at the point this vm file is called we're already inside an HTML page with
+  ## panels on the side, header, etc).
+  #set($syntaxType = $outputSyntax.type.toIdString())
+  #if (($syntaxType == "xhtml") || ($syntaxType == "html"))
+    #set ($renderedContent = $tdoc.getRenderedContent($outputSyntax))
+  #else
+    ## Make sure to print correctly the result when it's not HTML
+    #set ($renderedContent = "&lt;pre&gt;$escapetool.html($tdoc.getRenderedContent($outputSyntax))&lt;/pre&gt;")
+  #end
+#else
+  #set ($renderedContent = $tdoc.getRenderedContent())
+#end
+## ----------------------------------------------------------------------------
+## Compute title to display and modify rendered content accordingly.
+## ----------------------------------------------------------------------------
+##template("titlevars.vm")
+## ----------------------------
+## Display the title
+## ----------------------------
+##&lt;div id="document-title"&gt;&lt;h1&gt;$titleToDisplay&lt;/h1&gt;&lt;/div&gt;
+## --------------------------------------------------------------------------
+## Drop permissions as they are no longer needed. This allows us not to have
+## to review the code below for security holes since nothing bad can happen.
+## --------------------------------------------------------------------------
+$xcontext.dropPermissions()
+## ----------------------------
+## Display the shortcuts
+## ----------------------------
+#if($displayShortcuts)
+  ##template("shortcuts.vm")
+#end
+## ----------------------------
+## Display the rendered content
+## ----------------------------
+&lt;div id="xwikicontent"&gt;
+$renderedContent
+&lt;/div&gt;
+## -----------------------------------------------------------------------------------
+## Display the footnotes if the document is in 1.0 syntax and if there are any defined
+## -----------------------------------------------------------------------------------
+#set($footnotes = "#putFootnotes()")
+$xwiki.renderText($footnotes, $doc)</contentview.vm>
+</property>
+<property>
+<docextra.vm>## empty
+</docextra.vm></property><property><edit.vm></edit.vm></property><property><editmenu.vm>## empty
+
+</editmenu.vm></property><property><editmeta.vm>## empty
+</editmeta.vm></property><property><endpage.vm>    &lt;/div&gt;## contentcolumn
+##template("leftpanels.vm")
+##  &lt;/div&gt;## leftsidecolumns
+##template("rightpanels.vm")
+&lt;div class="clearfloats"&gt;&lt;/div&gt;
+  &lt;/div&gt;## contentcontainerinner
+&lt;/div&gt;## contentcontainer
+#template("footer.vm")
+&lt;/body&gt;
+&lt;/html&gt;</endpage.vm>
+</property>
+<property>
+<footer.vm>&lt;div id="footerglobal" class="ios"&gt;
+ &lt;div id="xwikilicence"&gt;$!copyright&lt;/div&gt;
+ #set ($version = $xwiki.getWebPreference("version"))
+ #if ("$!version" == "")
+    #set ($version = $xwiki.getXWikiPreference("version"))
+  #end
+  #if ("$!version" != "")
+    #set ($version = $xwiki.parseContent($version))
+  #else
+    #set ($version = $!xwiki.version)
+  #end
+  &lt;div id="xwikiplatformversion"&gt;$version&lt;/div&gt;
+$context.unsetLinksQueryString()
+  &lt;div id="mobile"&gt;&lt;a href="$doc.getURL("view")" onclick="createCookie('xwikimobile','off',0);"&gt;Normal Version&lt;/a&gt;&lt;/div&gt;
+ &lt;/div&gt;
+## make sure links are unset
+$context.unsetLinksQueryString()</footer.vm>
+</property>
+<property>
+<header.vm>## make sure all links stay in this skin
+$context.setLinksQueryString("skin=${xwiki.skin}")
+&lt;div id="quicklinks" style="display: none;"&gt;
+###
+###    Display Panel
+###
+### Extract and display the panel code from the panel object
+###
+#macro(iosdisplaypanel $name)
+  #set ($pobj = "")
+  ## Since Velocity does not do any assignment if the RHS is null we need to reset the paneldoc
+  ## as otherwise the previously set panel will be displayed. getDocument() returns null if the
+  ## user doesn't have the right to view a document.
+  #set ($paneldoc = "")
+  #set ($paneldoc = $xwiki.getDocument($name))
+  #if ($paneldoc != "")
+    #set ($pobj = $paneldoc.getObject("Panels.PanelClass"))
+    #if (!$pobj)
+      ## discarded
+    #else
+      $!doc.display("content", "view", $pobj)
+    #end
+  #end
+#end
+#iosdisplaypanel("Panels.QuickLinks")
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;
+function showQuickLinks() {
+  $("quicklinks").toggle();
+}
+&lt;/script&gt;
+#set($parents = $util.arrayList)
+#set($discard = $parents.add($doc.fullName))
+#macro(breadcrumb $doc $string $level)
+  #set($parent = $doc.parent)
+  #if(($parent != "") &amp;&amp; ($level &lt; 6) &amp;&amp; (!$parents.contains($parent)))
+    #set($discard = $parents.add($parent))
+    #set($pdoc = $xwiki.getDocument($parent).getTranslatedDocument())
+    #set($pdocurl = $pdoc.getURL("view"))
+    #set($nstring = "&lt;a href='$pdocurl'&gt;$xwiki.getXMLEncoded(${pdoc.getRenderedTitle('plain/1.0')})&lt;/a&gt; &lt;span class='separator'&gt;&amp;raquo;&lt;/span&gt; $string")
+    #set($level = $level + 1)
+    #breadcrumb($pdoc $nstring $level)
+  #else
+    $string
+  #end
+#end
+#if($context.getMode()==0) ## Visible only in a page
+&lt;div id="headerspace" class="layoutsection"&gt;
+  &lt;div id="navigation" class="ios"&gt;
+    &lt;div class="ios" id="breadcrumbs"&gt;
+      &lt;span class="breadcrumbspace"&gt;&lt;a href="$spaceViewUrl"&gt;$xwiki.getXMLEncoded(${doc.space})&lt;/a&gt;: &lt;/span&gt;
+  #breadcrumb($doc "&lt;a href='${doc.getURL('view')}'&gt;$xwiki.getXMLEncoded($tdoc.getRenderedTitle('plain/1.0'))&lt;/a&gt;" 0)
+    &lt;/div&gt;
+    &lt;div class="ios" id="search"&gt;
+      &lt;form action="$xwiki.getURL('Main.WebSearch')"&gt;
+        &lt;input type="hidden" name="skin" value="${xwiki.skin}" /&gt;
+          &lt;label class="hidden" for="headerglobalsearchinput"&gt;$msg.get('panels.search.inputLabel')&lt;/label&gt;&lt;input class="globalsearchinput withTip" id="headerglobalsearchinput" type="text" name="text" value="$msg.get('panels.search.inputText')" size="10"/&gt;
+      &lt;/form&gt;
+    &lt;/div&gt;
+    &lt;div class="ios" id="languages"&gt;
+    #if($xwiki.isMultiLingual())
+      &lt;span class="glink" id="headerlanguages"&gt;
+      #set($defaultLanguage = "$!{doc.getDefaultLanguage()}")
+      #if($defaultLanguage == '')
+        #set($defaultLanguage = "$!{doc.getLanguage()}")
+      #end
+      #if($defaultLanguage == '')
+        #set($defaultLanguage = "default")
+      #end
+      &lt;a href="$!doc.getURL("view", "language=$defaultLanguage")" class="language-default#if($tdoc.realLanguage == $defaultLanguage || ($defaultLanguage == 'default' &amp;&amp; $tdoc.realLanguage == '')) language-current#end"&gt;$defaultLanguage&lt;/a&gt;
+      #set ($wikiSettingsLanguages = $!xwiki.getXWikiPreference('languages').trim().split('\s*[,| ]\s*'))
+      #set ($hasLanguagesSet = $wikiSettingsLanguages.size() &gt; 1 || "$!wikiSettingsLanguages.get(0)" != '')
+      #foreach($lang in $doc.translationList)
+        #if(!$hasLanguagesSet || $wikiSettingsLanguages.contains($lang))
+          &lt;a href="$!doc.getURL("view", "language=$lang")" class="language-translation#if($tdoc.realLanguage == $lang) language-current#end"&gt;$!lang&lt;/a&gt;
+        #end
+      #end
+      &lt;/span&gt;
+    #end
+    &lt;/div&gt;
+    &lt;div id="document-info-mobile"&gt;
+     &lt;span class="xdocLastModification"&gt; ## Last modification
+      $msg.get('core.footer.modification', [$xwiki.getUserName($tdoc.author), $xwiki.formatDate($tdoc.date)])
+     &lt;/span&gt;
+     &lt;span class="xdocSeparator"&gt;
+     - 
+     &lt;/span&gt;
+     &lt;span class="xdocCreation"&gt;
+     $msg.get('core.footer.creation', [$xwiki.getUserName($doc.creator), $xwiki.formatDate($doc.creationDate)])
+      #if($tdoc.realLanguage != $doc.realLanguage)
+        $msg.get('core.footer.translationCreation', [$tdoc.realLanguage, $xwiki.getUserName($tdoc.creator), $xwiki.formatDate($tdoc.creationDate)])&lt;br/&gt;
+      #end
+     &lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class="clearfloats"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="ios" id="menu"&gt;
+    ## Edit Menu
+    ## Compute the default edit mode
+    #set($editaction = $doc.getDefaultEditMode())
+    &lt;a class="logo" href="$!xwiki.getURL('Main.WebHome')" title="Home" rel="home"&gt;&lt;/a&gt;
+    &lt;a class="action other" href="$doc.getURL("view", "viewer=panels")" onclick="showQuickLinks(); return false;"&gt;&lt;span class="menuarrow"&gt;&amp;#9660;&lt;/span&gt;$msg.get('XWiki.XWikiPreferences_menu')&lt;/a&gt;
+    &lt;span class="separator"&gt;&amp;#183;&lt;/span&gt;
+    &lt;a class="action view" href="$doc.getURL("view", "")"&gt;$msg.get('view')&lt;/a&gt;
+    &lt;a class="action syntax" href="$doc.getURL("edit", "editor=wiki&amp;$!languageparams")"&gt;$msg.get('core.menu.edit.wiki')&lt;/a&gt;
+    &lt;a class="action edit" href="$doc.getURL($editaction, $!languageparams)"&gt;$msg.get('core.menu.edit.wysiwyg')&lt;/a&gt;
+    &lt;span class="separator"&gt;&amp;#183;&lt;/span&gt;
+    &lt;a class="action panelslist" href="$doc.getURL("view", "viewer=panels")"&gt;$msg.get('admin.panels')&lt;/a&gt;
+    &lt;a class="action comment" href="$doc.getURL("view", "viewer=comments")"&gt;$msg.get('docextra.comments')&lt;/a&gt;
+    &lt;a class="action attach" href="$doc.getURL("view", "viewer=attachments")"&gt;$msg.get('docextra.attachments')&lt;/a&gt; 
+    &lt;a class="action info" href="$doc.getURL("view", "viewer=information")"&gt;$msg.get('docextra.information')&lt;/a&gt;
+      #if (!$xcontext.action.startsWith('login'))
+        #if ($isGuest)
+          #set ($loginurl = $xwiki.getURL('XWiki.XWikiLogin', 'login', "xredirect=$escapetool.url($xwiki.getRequestURL())"))
+          &lt;a class="action login" href="$!loginurl"&gt;$!msg.get('login')&lt;/a&gt;
+        #else
+          #set ($logouturl = $xwiki.getURL('XWiki.XWikiLogout', 'logout', "xredirect=$escapetool.url($xwiki.getRequestURL())"))
+          &lt;a class="action login" href="$!logouturl"&gt;$!msg.get('logout')&lt;/a&gt;
+        #end
+      #end
+    &lt;div class="clearfloats"&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+#end</header.vm>
+</property>
+<property>
+<hierarchy.vm>## empty
+</hierarchy.vm></property><property><inline.vm></inline.vm></property><property><ios.css></ios.css></property><property><iosheader.vm></iosheader.vm></property><property><login.vm></login.vm></property><property><logo></logo></property><property><menuview.vm>## empty
+</menuview.vm></property><property><name></name></property><property><panels.vm>###
+###    Display Panel
+###
+### Extract and display the panel code from the panel object
+###
+#macro(iosdisplaypanel $name)
+  #set ($pobj = "")
+  ## Since Velocity does not do any assignment if the RHS is null we need to reset the paneldoc
+  ## as otherwise the previously set panel will be displayed. getDocument() returns null if the
+  ## user doesn't have the right to view a document.
+  #set ($paneldoc = "")
+  #set ($paneldoc = $xwiki.getDocument($name))
+  #if ($paneldoc != "")
+    #set ($pobj = $paneldoc.getObject("Panels.PanelClass"))
+    #if (!$pobj)
+      ## discarded
+    #else
+      $!doc.display("content", "view", $pobj)
+    #end
+  #end
+#end
+## TODO: replace with real translations
+&lt;div id="document-title"&gt;&lt;h1&gt;$msg.get('admin.panels') $msg.get('xe.search.of') &lt;em&gt;&lt;a href="$doc.getURL()"&gt;$escapetool.xml($doc.getPlainTitle())&lt;/a&gt;&lt;/em&gt;&lt;/h1&gt;&lt;/div&gt;
+  ## ----------------------------
+  ## Display the shortcuts
+  ## ----------------------------
+  #if($displayShortcuts)
+    #template("shortcuts.vm")
+  #end
+#if($showLeftPanels == "1" || $request.getParameter("forceLeftPanels"))
+#foreach($panel in $leftPanels)
+#iosdisplaypanel($panel.trim())
+#end
+#end
+#if($showRightPanels == "1" || $request.getParameter("forceRightPanels"))
+#foreach($panel in $rightPanels)
+#iosdisplaypanel($panel.trim())
+#end
+#end</panels.vm>
+</property>
+<property>
+<style.css>@import "$xwiki.getSkinFile('css/microformats.css')";
+@import "$xwiki.getSkinFile('colibri.css', true)#if ("$!{request.colorTheme}" != '')?colorTheme=${request.colorTheme}#end";
+
+#template('colorThemeInit.vm')
+
+#body {
+  background-color: $theme.pageBackgroundColor;
+  font-size: 110%;
+  padding: 0 .5em .5em;
+  min-width: inherit;
+}
+
+#headerspace {
+  
+}
+
+#menu { 
+  padding: .5em 25px;
+}
+
+#menu a, #menu .menuarrow {
+  color: $theme.buttonSecondaryTextColor;
+  text-shadow: 0 1px 0 $theme.pageContentBackgroundColor;
+}
+
+#menu .menuarrow {
+  left: 50px;
+  position: absolute;
+  top: 30px;
+  opacity: .4;
+}
+
+#menu a.other:hover, #menu a.other:active, #menu a.other:target {
+  text-decoration: none;
+}
+
+#menu .action{
+  background: none no-repeat scroll 50% 13px transparent;
+  font-size: 0.7em;
+  float: left;
+  padding-top: 60px;
+  position: relative;
+  margin: 0 .5em;
+  min-width: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  background-size: 40px;
+}
+
+#menu .logo {
+  background-image: url($doc.getAttachmentURL('xwiki.png'));
+  background-size: 100%;
+  display: inline-block;
+  float: left;
+  margin: 6px 1em 0 0;
+  height: 60px;
+  width: 60px;
+}
+#menu .view {
+  background-image: url($doc.getAttachmentURL('document_24.png'));
+}
+#menu .edit {
+  background-image: url($doc.getAttachmentURL('pencil_24.png'));
+}
+#menu .comment {
+  background-image: url($doc.getAttachmentURL('comment_24.png'));
+}
+#menu .attach {
+  background-image: url($doc.getAttachmentURL('attach_24.png'));
+}
+#menu .syntax {
+  background-image: url($doc.getAttachmentURL('pencil_24.png'));
+}
+#menu .other {
+  background-image: url($doc.getAttachmentURL('book_bookmark_24.png'));
+  background-position: 30% 13px;
+}
+#menu .panelslist {
+  background-image: url($doc.getAttachmentURL('link_24.png'));
+}
+#menu .info {
+  background-image: url($doc.getAttachmentURL('info_24.png'));
+}
+#menu .profile {
+  background-image: url($doc.getAttachmentURL('man_24.png'));
+}
+#menu .login {
+  background-image: url($doc.getAttachmentURL('outbox_24.png'));
+  float: right;
+}
+#menu .separator {
+  float: left;
+  margin: 0 0.7em;
+  padding-top: 20px;
+}
+
+#navigation {
+  background: $theme.pageContentBackgroundColor;
+  border: 1px solid $theme.borderColor;
+  border-width: 0 1px 1px;
+  border-radius: 0 0 4px 4px;
+  padding: 10px 25px;
+}
+
+#breadcrumbs {
+  float: left;
+}
+
+#search.ios, #languages.ios {
+  float: right;
+  clear: right;
+}
+
+#languages.ios, .globalsearchinput {
+  margin-right: 0;
+}
+
+#languages.ios {
+  font-size: 85%;
+}
+
+#breadcrumbs { 
+  padding: 0.2em 0 0;
+  font-size: 140%;
+}
+
+
+#headerlanguages a {
+  margin: 0px;
+}
+
+.globalsearchinput {
+  padding: 0.3em;
+  margin-right: -0.5em;
+  width: 210px;
+}
+
+#document-title h1 {
+  font-size: 2.5em;
+  margin: 0.3em 0 0;
+}
+
+#footerglobal {
+  font-size: .5em;
+  padding: 1em 0 0;
+}
+
+#ioslink {
+  clear: both;
+  font-size: .7em;
+  margin: 0 225px;
+  padding: 0 0 25px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.alleditcontent {
+  margin-left: 0;
+}
+
+.panel {
+  width: 100%;
+}
+
+#xwikieditorinner .panel {
+  width: 210px;
+}
+
+h1.xwikipaneltitle {
+  background-color: #ffffff;
+  border-bottom: none;
+  color: #000000;
+  padding: 5px;
+  text-size: auto;
+}
+
+.xwikipanelcontents  {
+  background-color: none;
+  color: none;
+}
+
+#contentmenu, #editmenu, 
+#annotationsshortcut, #commentsshortcut, #attachmentsshortcut, #informationshortcut, #historyshortcut, #document-info .separator {
+  display: none;
+}
+
+#body.hideleft #contentcolumn .main {
+  margin: 0;
+}
+
+.main {
+  margin: 0;
+  padding: 0;
+}
+
+#body.hideleft #footerglobal {
+  margin: 0;
+}
+
+#quicklinks {
+  position: absolute;
+  top: 130px;
+  left: 100px;
+  border: 1px solid $theme.borderColor;
+  background-color: $theme.pageBackgroundColor;
+  padding: .5em;
+  z-index: 100014; 
+  font-size: 130%;
+}
+
+#document-info-mobile {
+ float: left;
+ clear: left;
+ padding: 3px;
+ padding-left: 0px;
+ font-size: 70%;
+}
+
+.xdocLastModification, .xdocCreation {
+  width: auto;
+  float: none;
+}
+
+#xwikieditcontent textarea#content {
+  font-size: 120%;
+}</style.css>
+</property>
+<property>
+<view.vm></view.vm>
+</property>
+<property>
+<viewheader.vm></viewheader.vm>
+</property>
+</object>
+<content></content></xwikidoc>
