@@ -1,0 +1,4 @@
+#set($ua = $!request.getHeader("User-agent"))
+#if($ua.contains("iPhone")||$ua.contains("iPad")||$ua.contains("Android")||$ua.contains("IEMobile"))
+ <a href="$doc.getURL("view", "skin=mobile")" onclick="createCookie('xwikimobile','on',0);">Mobile Version</a>
+#end

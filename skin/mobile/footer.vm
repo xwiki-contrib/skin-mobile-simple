@@ -1,0 +1,17 @@
+<div id="footerglobal" class="ios">
+ <div id="xwikilicence">$!copyright</div>
+ #set ($version = $xwiki.getWebPreference("version"))
+ #if ("$!version" == "")
+    #set ($version = $xwiki.getXWikiPreference("version"))
+  #end
+  #if ("$!version" != "")
+    #set ($version = $xwiki.parseContent($version))
+  #else
+    #set ($version = $!xwiki.version)
+  #end
+  <div id="xwikiplatformversion">$version</div>
+$context.unsetLinksQueryString()
+  <div id="mobile"><a href="$doc.getURL("view")" onclick="createCookie('xwikimobile','off',0);">Normal Version</a></div>
+ </div>
+## make sure links are unset
+$context.unsetLinksQueryString()
